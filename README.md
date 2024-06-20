@@ -11,7 +11,7 @@ This is a Sudoku solver project implemented in JavaScript. It allows users to so
 
 ## Demo
 
-You can try out the Sudoku solver demo [here](link-to-your-demo).
+You can try out the Sudoku solver demo [here](https://045-joval.github.io/Sudoku-Solver/).
 
 ## How to Use
 
